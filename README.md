@@ -84,5 +84,4 @@ The dataset provided (`LoanTapData.csv`) contains borrower details and loan-rela
 
 ---
 
-## 📌 Repository Structure  
 
